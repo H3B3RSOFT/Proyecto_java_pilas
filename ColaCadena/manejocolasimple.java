@@ -5,7 +5,6 @@ class manejocolasimple
     public static void main (String args [])
     {
 		ColaSimple A = new ColaSimple ();
-		//ColaSimple B = new ColaSimple ();
 		A.llenar (4);//ingresa 4 datos enteros
 		A.mostrar ();
     }
